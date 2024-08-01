@@ -1,0 +1,4 @@
+/c/Intel/node/node-14.17.3/bin/node -v
+export PATH=/c/Intel/node/node-14.17.3/bin:$PATH
+echo 'export PATH=/c/Intel/node/node-14.17.3/bin:$PATH' >> ~/.bashrc
+source ~/.bashrc
